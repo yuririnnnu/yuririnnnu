@@ -1,4 +1,6 @@
 ### Hi there 👋
+Languages and Tools:
+csharp css3 cypress express heroku html5 javascript nodejs photoshop postgresql postman python react redux sqlite
 
 <!--
 **yuririnnnu/yuririnnnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
