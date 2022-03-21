@@ -1,4 +1,4 @@
-## Hi there, I am Yuriko Takamiya 👋
+# Hi there, I am Yuriko Takamiya 👋
 🔭 I am currently enrolled in BloomTech's Full Stack Web Developer course. I am looking to a FrontEnd Developer or Software Developer position to utilize my strong technical and programming skills.
 
 📫 For professional inquiries, contact me on  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriko-takamiya/)
