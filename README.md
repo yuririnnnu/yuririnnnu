@@ -1,7 +1,7 @@
 # Hi there, I am Yuriko Takamiya 👋
 🌱 I used to work at an advertising agency as a creative director and decided to make my career change into developer.
 
-🔭 I am currently enrolled in BloomTech's Full Stack Web Developer course. I am looking to a Full Stack Developer or Software Developer position to utilize my strong technical and programming skills.
+🔭 I am currently enrolled in BloomTech's Full Stack Web Developer course. I am looking to a Full Stack Developer or Software Developer position to utilize my strong technical and programming skills. 
 
 💬 Ask me anything about my recent projects such as Anywhere Fitness and Crypto World!
 
@@ -12,7 +12,7 @@
 # GitHub stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuririnnnu&show_icons=true&locale=en" alt="yurikotakamiya" /></p>
 
-# Technology:
+# Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
